@@ -1,6 +1,6 @@
 # counterTutorial
 
--   `deployed content address` - deployed content address
+-   `deployed content address` - EQBF5c4VsSlKVt9z4aoT3o7wzDJGHss2paUI-c_m-\_QXTy4H
 
 ## Project structure
 
